@@ -1,3 +1,0 @@
-/home/oscarluiis/Documents/Organizacion de computadoras/Plugin/build/CMakeFiles/rebuild_cache.dir
-/home/oscarluiis/Documents/Organizacion de computadoras/Plugin/build/CMakeFiles/edit_cache.dir
-/home/oscarluiis/Documents/Organizacion de computadoras/Plugin/build/CMakeFiles/sc-plugin.dir
