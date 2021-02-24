@@ -1,8 +1,8 @@
 # Proyecto Clase
 
-Proyecto: Pong
-Catedratico: Ing. Ivan Deras
-Alumno: Oscar Luis Sanchez
+Proyecto: Pong</br>
+Catedratico: Ing. Ivan Deras</br>
+Alumno: Oscar Luis Sanchez</br>
 Asignatura: Organizacion de computadoras
 
 # Descripcion
