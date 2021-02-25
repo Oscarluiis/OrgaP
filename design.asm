@@ -10,6 +10,9 @@ desing_level:
 forHorizontal:
     slt $t1, $t0, $s0
     beq $t1, $zero, end_forHorizontal
+    li $a1, 15
+    li $v0, 22
+    syscall
     li $a0, 42
     jal print_char
     addi $t0, $t0, 1
@@ -58,7 +61,9 @@ for_dentro:
     j for_dentro
     
 end_desing_level:
- li $a0, 10
+    li $v0, 23
+    syscall
+    li $a0, 10
     jal print_char
     lw $ra, 0($sp)
     addi $sp, $sp, 4
